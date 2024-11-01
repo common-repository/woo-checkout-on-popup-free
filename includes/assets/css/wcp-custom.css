@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+.wcp-load-header{
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.wcp-load-footer{
+	text-align: center;
+	font-size: 15px;
+	font-style: italic;
+	font-family: 'Raleway', sans-serif;
+}
+
+.mCustomScrollbar {
+  height: 400px;
+}
+
+.wcp-cart-loader{
+	display: none;
+	margin: 37% 43% 27% 45%;
+	position: fixed;
+	background-color: rgba(1, 1, 1, 0.7);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+/*.wcp-floating-cart:hover{
+    background: #e82517;
+}*/
+.wcp-floating-cart{
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	/*background: #f91504;*/
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	cursor: pointer;
+	box-shadow: 0px 2px 5px #666;
+}
+
+.wcp-floating-cart .icon{
+	color: white;
+	position: absolute;
+	top: 14px;
+	display: block;
+	bottom: 5px;
+	left: 10px;
+	right: 0;
+	text-align: center;
+	padding-right: 8px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 4px;
+
+}
+.modal-content h3{
+	text-align: center;
+	line-height: 0;
+	padding: 0;
+	margin-bottom:15px;
+}
+.modal-footer p {
+	margin: 0;
+    text-align: center;
+    font-style: italic;
+    padding: 0;
+    margin-top: 4px;
+}
+.modal-footer{
+	padding-bottom: 2px;
+	padding-right: 4%;
+	padding-left:0px;
+	padding-top: 2px;
+}
+.modal-footer button{
+	margin-top: 10px;
+
+}

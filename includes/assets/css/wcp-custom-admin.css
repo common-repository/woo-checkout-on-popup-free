@@ -1,0 +1,19 @@
+
+.wps-wcp-checkout .forminp  span.description {
+    font-size: 14px;
+    font-style: italic;
+    display: block;
+    margin: 10px 0 0;
+    line-height: 1.4em;
+    color: #666;
+}
+.wps-wcp-checkout table.form-table {
+    border-bottom: 2px solid #DDD;
+    margin-bottom: 25px;
+}
+.wcp-premium{
+	color: red;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+}
